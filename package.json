@@ -1,0 +1,22 @@
+{
+  "name": "plogin",
+  "version": "1.0.0",
+  "description": "Plogin web client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Plogin"
+  ],
+  "author": "ipman",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "vue": "^2.5.16",
+    "vuetify": "^1.0.17"
+  },
+  "devDependencies": {
+    "webpack": "^4.8.3"
+  }
+}
